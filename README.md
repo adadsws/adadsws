@@ -41,15 +41,15 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=adadsws&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=adadsws&show_icons=true&hide_border=true&theme=default&rank_icon=github">
-  <img alt="adadsws's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=adadsws&show_icons=true&hide_border=true&theme=default&rank_icon=github" height="165">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adadsws&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adadsws&theme=github">
+  <img alt="adadsws's GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adadsws&theme=github" height="165">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adadsws&layout=compact&hide_border=true&theme=github_dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adadsws&layout=compact&hide_border=true&theme=default">
-  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adadsws&layout=compact&hide_border=true&theme=default" height="165">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adadsws&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adadsws&theme=github">
+  <img alt="Most used languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adadsws&theme=github" height="165">
 </picture>
 
 </div>
