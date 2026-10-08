@@ -16,6 +16,7 @@
 
 | Project | What it does | AI usage | Stack |
 |---|---|---|---|
+| [deepseek-pipeline-transcript](https://github.com/adadsws/deepseek-pipeline-transcript) | 在 Windows 上批量转录并翻译视频语音，自动生成同名 SRT 字幕。 | FasterWhisper 本地语音识别与 DeepSeek 整段字幕翻译 | Python / PowerShell / Windows |
 | [manga-reader](https://github.com/adadsws/manga-reader) | Android 漫画朗读工具：识别页面、分析分镜并用角色音色朗读，支持浮窗控制和自动翻页。 | 本地 OCR、Magi 分镜模型、ASR 与 GPT-SoVITS 语音合成 | Python / Android / PyTorch |
 | [r6s-stats-tiers](https://github.com/adadsws/r6s-stats-tiers) | 生成《彩虹六号：围攻》中文干员榜单，以及 XLSX、PDF 报告。 | 包含由 AI Agent 执行的报告构建 Skill | Python / AI Skill |
 
