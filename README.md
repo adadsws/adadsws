@@ -16,7 +16,6 @@ Turning repetitive work into practical tools.
 | Project | What it does | AI usage | Stack |
 |---|---|---|---|
 | [r6s-stats-tiers](https://github.com/adadsws/r6s-stats-tiers) | Compares Rainbow Six Siege operators in Chinese rankings and downloadable reports. | An optional AI Agent skill helps build reports. | Python · AI Skill |
-| [LLM-Guided-Multi-Agent-Strategic-Decision-Making-in-Dynamic-Competitive-Markets](https://github.com/adadsws/LLM-Guided-Multi-Agent-Strategic-Decision-Making-in-Dynamic-Competitive-Markets) | Runs reproducible market simulations in an interactive console. | External AI agents can submit decisions; built-in opponents follow rules. | Python · React |
 | [manga-reader-gpt-sovits](https://github.com/adadsws/manga-reader-gpt-sovits) | Reads manga aloud on Android, panel by panel, with optional auto page turning. | Local OCR and panel analysis feed GPT-SoVITS voice synthesis. | Python · Android · PyTorch |
 | [deepseek-pipeline-transcript](https://github.com/adadsws/deepseek-pipeline-transcript) | Creates translated SRT subtitles for individual videos or folders. | Whisper transcribes speech; DeepSeek translates subtitles. | Python · Whisper · DeepSeek |
 | [game-folder-naming-skill](https://github.com/adadsws/game-folder-naming-skill) | Previews consistent game folder names from verified catalog details. | An AI skill checks sources and prepares renames for approval. | Python · AI Skill |
